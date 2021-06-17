@@ -3,7 +3,7 @@
 </div>
 <h1 align="center">
   Portfolio || N H Ananto
-
+<hr>
 <div align="center"> 
   <img alt="Demo" src="https://i.ibb.co/DKhfLbb/demo.png" />
 </div>
