@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://nhananto.github.io/sitemap/sitemap-index.xml
-Host: https://nhananto.github.io
