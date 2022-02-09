@@ -104,21 +104,21 @@ const Footer = () => {
         <StyledGitHubLink
           href="https://github.com/nhananto/portfolio_nhananto">
           <div>
-           <a href="https://github.com/nhananto/portfolio_nhananto"> Copyright © 2021 | Nazmul Hossain Ananto</a>
+           <a href="https://github.com/nhananto/portfolio_nhananto"> Copyright © 2022 | Nazmul Hossain Ananto</a>
           </div>
 
-          {githubInfo.stars && githubInfo.forks && (
-            <StyledGitHubInfo>
-              <span>
-                <FormattedIcon name="Star" />
-                <span>{githubInfo.stars.toLocaleString()}</span>
-              </span>
-              <span>
-                <FormattedIcon name="Fork" />
-                <span>{githubInfo.forks.toLocaleString()}</span>
-              </span>
-            </StyledGitHubInfo>
-          )}
+          //{githubInfo.stars && githubInfo.forks && (
+           // <StyledGitHubInfo>
+           //   <span>
+           //     <FormattedIcon name="Star" />
+           //     <span>{githubInfo.stars.toLocaleString()}</span>
+           //   </span>
+           //   <span>
+           //     <FormattedIcon name="Fork" />
+            //    <span>{githubInfo.forks.toLocaleString()}</span>
+           //   </span>
+           // </StyledGitHubInfo>
+         // )}
         </StyledGitHubLink>
       </StyledMetadata>
     </StyledContainer>
