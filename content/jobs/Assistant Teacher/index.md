@@ -1,8 +1,8 @@
 ---
 date: '2021-05-05'
-title: 'Assistant Teacher'
+title: 'Artificial Intelligence Prefect'
 company: 'DIU'
-range: 'May 2021 - Present'
+range: 'May 2021 - January 2022'
 url: 'https://www.daffodilvarsity.edu.bd/'
 
 ---
